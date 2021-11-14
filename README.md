@@ -35,7 +35,7 @@ A lot of them must be compiled before run, short instructions for MacOS below (t
 8. [Golang (.go)](/Golang)
     * `go run hello.go`
 9. [Haskell (.hs)](/Haskell)
-    * `brew instal ghc`
+    * `brew install ghc`
     * `ghc -o hello hello.hs`
     * `ghc hello.hs`
     * `./hello`
