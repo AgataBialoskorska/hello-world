@@ -44,7 +44,7 @@ A lot of them must be compiled before run, short instructions for MacOS below (t
     * `java hello`
 11. [Kotlin (.kt)](/Kotlin)
     * `kotlinc hello.kt -d kotlin.jar`
-    * `java -jar hello.jar`
+    * `java -jar kotlin.jar`
 12. [PHP (.php)](/PHP)
     * `php hello.php`
 13. [Perl (.pl)](/Perl)
